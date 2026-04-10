@@ -1,0 +1,17 @@
+Website Style Guide - Neel Balani
+
+Overall Formatting:
+    The overall site colors are green and yellow
+    The general font-family for the site is Courier New  with  backup fonts Arial The general text size is large
+
+Site Header/Branding
+    The header area font is Courier New
+
+Navigation Links
+    Site navigation uses the font-family Arial
+
+Content Section
+    The webpage content section uses padding and margin of 25px
+
+Paragraph Sections
+    Paragraph sections have bold weight
