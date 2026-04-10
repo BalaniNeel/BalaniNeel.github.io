@@ -1,0 +1,44 @@
+body {
+    background: #99EE33;
+    padding: 25px;
+    }
+
+    .firstLab{
+        color:blue;
+        font-size: 12px;
+    }
+
+    .secondLab{
+        color:red;
+    }
+
+    .thirdLab{
+        color:hotpink;
+    }
+
+    p{
+        color: black;
+        font-size: large;
+        font-weight: bold;
+    }
+
+    h1{
+        color: yellow;
+        font-size: x-large;
+    }
+
+    li{
+        text-decoration: underline;
+    }
+
+    .linkFonts{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .textFonts{
+        font-family:'Courier New', Courier, monospace;
+    }
+
+    .border{
+        border: dashed blue 3px;
+    }
