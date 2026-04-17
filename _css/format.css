@@ -1,41 +1,54 @@
 body {
-    background: #99EE33;
-    padding: 25px;
-    }
+    font-family: Georgia, "Times New Roman", serif;
+    margin: 15px;
+    border: 8px solid black;
+    background-color: white;
+    color: black;
+}
 
-    .firstLab{
-        font-size: 12px;
-    }
 
-    .secondLab{
-        color:red;
-    }
+header {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
 
-    .thirdLab{
-        color:hotpink;
-    }
 
-    p{
-        font-size: large;
-        font-weight: bold;
-    }
+nav {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
 
-    h1{
-        font-size: x-large;
-    }
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
 
-    li{
-        text-decoration: underline;
-    }
+nav li {
+    display: inline;
+    margin-right: 15px;
+}
 
-    .linkFonts{
-        font-family: Arial, Helvetica, sans-serif;
-    }
+nav a {
+    text-decoration: none;
+    color: blue;
+}
 
-    .textFonts{
-        font-family:'Courier New', Courier, monospace;
-    }
 
-    .border{
-        border: dashed blue 3px;
-    }
+main {
+    padding: 20px;
+}
+
+main img {
+    margin: 15px;
+    border: 2px solid black;
+}
+
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
